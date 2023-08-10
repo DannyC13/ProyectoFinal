@@ -1,0 +1,7 @@
+C:\Users\ANDRES\Desktop\AndressV\ProyectoFinal\ProyecyoFinal\obj\Debug\ProyecyoFinal.csproj.AssemblyReference.cache
+C:\Users\ANDRES\Desktop\AndressV\ProyectoFinal\ProyecyoFinal\obj\Debug\ProyecyoFinal.csproj.CoreCompileInputs.cache
+C:\Users\ANDRES\Desktop\AndressV\ProyectoFinal\ProyecyoFinal\bin\Debug\ProyecyoFinal.exe.config
+C:\Users\ANDRES\Desktop\AndressV\ProyectoFinal\ProyecyoFinal\bin\Debug\ProyecyoFinal.exe
+C:\Users\ANDRES\Desktop\AndressV\ProyectoFinal\ProyecyoFinal\bin\Debug\ProyecyoFinal.pdb
+C:\Users\ANDRES\Desktop\AndressV\ProyectoFinal\ProyecyoFinal\obj\Debug\ProyecyoFinal.exe
+C:\Users\ANDRES\Desktop\AndressV\ProyectoFinal\ProyecyoFinal\obj\Debug\ProyecyoFinal.pdb
