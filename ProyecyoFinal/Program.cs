@@ -10,9 +10,10 @@ namespace ProyecyoFinal
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Proyecto Final");
-                Console.ReadKey();
-        
+            Console.WriteLine(SolictarDatos.SolicitarNombre(""));
+            Console.WriteLine(SolictarDatos.SolicitarApellido(""));
+            Console.WriteLine(SolictarDatos.SolicitarCedula(""));
+            Console.WriteLine(SolictarDatos.SolicitarCorreo(""));
         }
 
     }
